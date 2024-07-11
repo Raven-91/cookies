@@ -22,6 +22,8 @@
 
 *******************************************************************************************
 
+# Cookies
+
 Welcome to the **Cookies** project page! This is a one-page landing page created using Angular.
 
 ## Description
